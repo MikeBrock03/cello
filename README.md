@@ -1,3 +1,9 @@
+# Reference code for my admission in the 2020 International Science and Engineering Fair 
+
+This was to simulate colonies of bacteria in the hope of optimizing water filtration. The fair was canceled because of COVID-19.
+
+# Original repo description:
+
 <img src="src/main/webapp/images/logo-cello-color.png">
 
 # Cello [![Build Status](https://travis-ci.org/LivingComputingProject/cello.svg?branch=develop)](https://travis-ci.org/LivingComputingProject/cello.svg?branch=develop)
